@@ -84,11 +84,7 @@ My journey in tech officially began when I took the **BS Information Technology*
 
 ## 📬 Connect With Me
 
-<p align="left">
-  <a href="mailto:thyrone.asuncion17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+📧 thyrone.asuncion17@gmail.com
 
 ---
 
