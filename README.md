@@ -1,4 +1,4 @@
-# ✨ Thyrone Asuncion
+# ✨ Thyrone P. Asuncion
 
 *"Code. Learn. Build. Repeat."*
 
