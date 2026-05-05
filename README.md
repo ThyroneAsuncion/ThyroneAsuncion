@@ -1,8 +1,6 @@
 # ✨ Thyrone Asuncion
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+*"Code. Learn. Build. Repeat."*
 
 ---
 
@@ -94,6 +92,6 @@ My journey in tech officially began when I took the **BS Information Technology*
 
 ---
 
-<p align="center">
+<p align="left">
   <i>Thanks for stopping by! 🙌</i>
 </p>
